@@ -1,4 +1,5 @@
 Hola, soy Tomás De Bernardi.
+
 Soy estudiante avanzado de Ingeniería Informática, orientado al desarrollo de software y al diseño de soluciones informáticas.  
 Tengo especial interés en el análisis de sistemas, el modelado de bases de datos y las primeras etapas del ciclo de vida del software.
 
@@ -7,7 +8,7 @@ Me considero una persona con gran predisposición para aprender y asumir nuevos 
 </p>
 </p>
 <p>
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat)
