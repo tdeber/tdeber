@@ -3,7 +3,7 @@ Hola, soy Tomás De Bernardi.
 Soy estudiante avanzado de Ingeniería Informática, orientado al desarrollo de software y al diseño de soluciones informáticas.  
 Tengo especial interés en el análisis de sistemas, el modelado de bases de datos y las primeras etapas del ciclo de vida del software.
 
-Me considero una persona con gran predisposición para aprender y asumir nuevos desafíos, siempre dispuesto a trabajar en distintos ámbitos que me permitan adquirir experiencia y continuar desarrollando mis habilidades profesionales.
+Me considero una persona proactiva, con gran predisposición para aprender y asumir nuevos desafíos, siempre dispuesto a desempeñarme en distintos ámbitos que contribuyan a mi crecimiento profesional.
 
 </p>
 </p>
